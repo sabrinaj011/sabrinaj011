@@ -6,7 +6,7 @@
  - [osTicket: Prerequisites and Installation](https://github.com/sabrinaj011/osticket-prereqs)
   - [osTicket: Post-Installation Configuration and Management](https://github.com/sabrinaj011/post-install-config)
 - <b>Microsoft Azure</b>
-  - [How to setup and use a VPN using a virtual machine in AZURE and ProtonVPN](https://github.com/sabrinaj011/VPN-AZURE)
+  - [How to create a VPN using Proton VPN in an Azure Virtual Machine](https://github.com/sabrinaj011/VPN-AZURE)
 
 <h2>🤳Connect with me:</h2>
 
